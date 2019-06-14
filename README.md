@@ -8,5 +8,8 @@
 * Para el examen has de instalar jaxon , hazlo con composer
   
   *composer require jaxon-php/jaxon-core:~2.0*
+  # Requisitos
+  * Hay que usar PDO
+  * Todas las consultas han de estar obligatoriamente paremetrizadas, si no no se considerarán válidas
 
  
