@@ -6,6 +6,7 @@
 
 ## Instalar composer 
 * Para el examen has de instalar jaxon , hazlo con composer
- *composer require jaxon-php/jaxon-core:~2.0*
+  
+  *composer require jaxon-php/jaxon-core:~2.0*
 
  
